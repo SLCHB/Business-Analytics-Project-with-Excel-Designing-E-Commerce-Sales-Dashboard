@@ -1,6 +1,4 @@
-# E-Commerce-Sales-Dashboard
-Designing E-Commerce Sales Dashboard ( Business Analytics ) with  Excel
-
+# Business Analytics Project with Excel : Designing E-Commerce-Sales-Dashboard 
 
 Objective: 
 An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various product categories. 
