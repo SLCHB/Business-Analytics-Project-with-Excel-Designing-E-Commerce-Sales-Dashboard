@@ -10,8 +10,6 @@ Domain:  E-Commerce
 
 Dataset Description : We will be using E-Commerce Dashboard.xlsx Dataset attached.
 
-Here in details: E-Commerce Dashboard which covers Orders data for various Product Category; In this file you will find the following fields:
-
 The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories. The following are the features in the dataset:
 
 Order ID	              Unique Order ID of a product
