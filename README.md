@@ -1,11 +1,6 @@
 # E-Commerce-Sales-Dashboard
-Designing E-Commerce Sales Dashboard in Excel
-Business Analytics With Excel
+Designing E-Commerce Sales Dashboard ( Business Analytics ) with  Excel
 
-DESCRIPTION
- Background definition of E-Commerce :
- E-commerce is the buying and selling of goods or services via the internet, and the transfer of money and data to complete the sales.
- It’s also known as electronic commerce or internet commerce.
 
 Objective: 
 An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various product categories. 
