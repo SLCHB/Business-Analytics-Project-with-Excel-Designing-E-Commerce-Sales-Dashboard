@@ -52,15 +52,3 @@ Create a dashboard.
  
 
 Tools required: Microsoft Excel, Data Analysis Add-in
-
-Sample Step : Create Histogram for Shipping Days(Aging)
-To create a histogram, click the Data Tab, Under Analysis Group (Right Corner), Click Data Analysis. 
-Now, select Histogram and click ok. A histogram dialog box will appear
-
-n the histogram dialog box, first, click the Label’s Checkbox as we have labels in our data. 
-After that, In the Input reference box select the range (“Sales Data!D1: D51291”) of our data and in the 
-Bin Range Reference box select (“Working!K3: K7”).In the Output section, select range “Working!N3” for a binning table,
-click Histogram checkbox and then ok.
-
-Note: 
-The entire project was meticulously planned.Sample output is given for reference. Procedures had to be followed as per the statement given in the project.
