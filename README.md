@@ -63,4 +63,4 @@ Bin Range Reference box select (“Working!K3: K7”).In the Output section, sel
 click Histogram checkbox and then ok.
 
 Note: 
-The entire project was meticulously planned.Sample out is given for reference. Procedures had to be followed as per the statement given in the project.
+The entire project was meticulously planned.Sample output is given for reference. Procedures had to be followed as per the statement given in the project.
